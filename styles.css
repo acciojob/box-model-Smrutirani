@@ -11,7 +11,7 @@
 	border-radius:50px;
 	background-color: lightgray;
 }
-.box1, .box2, .box3{
+.green, .yellow, .red{
 	display: flex;
 	margin:20px;
 	padding-bottom:30px;
@@ -21,17 +21,17 @@
 	width: 100% ;
 		
 }
-.box1{
+.green{
 	background-color: green;
 	border-radius: 50%;
 	height: 50%;
 }
-.box2{
+.yellow{
 	background-color: yellow;
 	border-radius: 50%;
 	height: 50%;
 }
-.box3{
+.red{
 	background-color: red;
 	border-radius: 50%;
 	height: 50%;
